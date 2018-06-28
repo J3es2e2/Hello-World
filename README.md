@@ -11,5 +11,19 @@ but now I'm exploring programming
 
 
 again
+
 6.28.18
+
 JJ
+
+
+P.S.
+I first coded on an Atari 800 circa 1982, BASIC fastenating!
+Actually I had attempted to sit in on a FORTRAN lab in 1980 at U of KY
+I was quickly lost and retreated for a more opportune time
+
+I saw how  a computer could help with doing estimates at our family sign business
+
+Then came the Columbia, an early IBM compatible: dual floppys, 128k, bundled software
+for a mere $3000.
+
