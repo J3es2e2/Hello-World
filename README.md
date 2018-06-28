@@ -18,8 +18,8 @@ JJ
 
 
 P.S.
-I first coded on an Atari 800 circa 1982, BASIC fastenating!
-Actually I had attempted to sit in on a FORTRAN lab in 1980 at U of KY
+I first coded on an Atari 800 circa 1982, BASIC---GOTO 10 Print "fascinating!"
+Actually I had attempted to sit in on a FORTRAN lab (punch cards and all) in 1980 at U of KY
 I was quickly lost and retreated for a more opportune time
 
 I saw how  a computer could help with doing estimates at our family sign business
